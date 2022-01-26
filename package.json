@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.28.2",
+    "@slidev/theme-default": "^0.21.1",
+    "@vueuse/shared": "^7.5.4",
+    "playwright-chromium": "^1.18.0",
+    "spotlight-vue": "^0.2.1"
+  },
+  "name": "slidev"
+}
